@@ -1,5 +1,4 @@
-# FreshFirst
-# Inventory Risk Prediction using Logistic Regression
+#FreshFirst: Inventory Risk Prediction using Logistic Regression
 
 This project implements a logistic regression model to identify inventory items at risk of expiration. It is intended for suppliers and warehouse managers handling perishable or time-sensitive goods.
 
